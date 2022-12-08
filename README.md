@@ -4,7 +4,9 @@
 
 ### Presentation
 SOLID Engine is a custom Game Engine project using PhysX and FMOD for the physics and audio component.
+
 For the Render it uses OpenGL4.
+
 UI is made with ImGUI.
 
 ### Overview 
